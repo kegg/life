@@ -1,3 +1,5 @@
+package com.dreamsense.life;
+
 public class Main {
 
   public Main() {
